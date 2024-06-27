@@ -35,11 +35,18 @@ import com.devspace.myapplication.ui.theme.EasyRecipesTheme
 
 @Composable
 fun OnboardingScreen(navHostController: NavHostController) {
-    OnboardingContent()
+    OnboardingContent(
+        onClick = {
+            navHostController.navigate("main_screen")
+        }
+    )
 }
 
 @Composable
-private fun OnboardingContent(modifier: Modifier = Modifier) {
+private fun OnboardingContent(
+    modifier: Modifier = Modifier,
+    onClick: () -> Unit,
+) {
     Box(
         modifier = modifier
             .fillMaxSize()
@@ -86,9 +93,10 @@ private fun OnboardingContent(modifier: Modifier = Modifier) {
                 )
 
                 Button(
-                    modifier = Modifier.padding(top = 8.dp, bottom = 32.dp),
+                    modifier = Modifier
+                        .padding(top = 8.dp, bottom = 32.dp),
                     shape = RoundedCornerShape(8.dp),
-                    onClick = { /*TODO*/ },
+                    onClick = onClick,
                     colors = ButtonDefaults.buttonColors(
                         containerColor = MaterialTheme.colorScheme.primary,
                         contentColor = MaterialTheme.colorScheme.onPrimary
@@ -108,7 +116,8 @@ private fun OnboardingContent(modifier: Modifier = Modifier) {
 @Composable
 private fun OnboardingPreview() {
     EasyRecipesTheme {
-        OnboardingContent()
-    }
+        OnboardingContent(onClick = {
 
+        })
+    }
 }

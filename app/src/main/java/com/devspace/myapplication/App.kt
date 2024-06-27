@@ -10,7 +10,7 @@ import androidx.navigation.navArgument
 @Composable
 fun App() {
     val navController = rememberNavController()
-    NavHost(navController = navController, startDestination = "main_screen" ){
+    NavHost(navController = navController, startDestination = "onboarding_screen" ){
         composable(route = "onboarding_screen"){
             OnboardingScreen(navController)
         }
