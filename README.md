@@ -28,6 +28,8 @@ Funcionalidades
   - Query
   - Path
 
+## Documentação API
+[Postman](https://www.postman.com/spoonacular-api/)
 ## License
 ```
 The MIT License (MIT)
