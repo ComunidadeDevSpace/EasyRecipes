@@ -8,7 +8,7 @@ Funcionalidades
 
 ## :camera_flash: Screenshots
 <!-- You can add more screenshots here if you like -->
-<img src="https://github.com/roquebuarquejr/EasyRecipes/assets/11612508/998f2aa9-939e-4a8e-9608-8a0c8ab41a51" width=170/> <img src="https://github.com/roquebuarquejr/EasyRecipes/assets/11612508/520c805c-dfa9-401e-adff-50ca0add0072" width=180/> <img src="https://github.com/roquebuarquejr/EasyRecipes/assets/11612508/f84d7d74-4d00-4c48-8a80-16f372f7ee8d" width=180/> <img src="https://github.com/roquebuarquejr/EasyRecipes/assets/11612508/2eba7aa4-f473-4575-85a5-f6d1f58be3b5" width=180/> <img src="https://github.com/roquebuarquejr/EasyRecipes/assets/11612508/1a1c7882-423e-44a9-a4c6-f4e499825e5e" width=180/>
+<img src="https://github.com/roquebuarquejr/EasyRecipes/assets/11612508/998f2aa9-939e-4a8e-9608-8a0c8ab41a51" width=170/> <img src="https://github.com/ComunidadeDevSpace/EasyRecipes/assets/11612508/8149c7fc-a765-441e-9b85-ac0d57907788" width=180/> <img src="https://github.com/ComunidadeDevSpace/EasyRecipes/assets/11612508/ad1f28e5-7e40-43da-9596-1319bc381baf" width=180/> <img src="https://github.com/ComunidadeDevSpace/EasyRecipes/assets/11612508/d238dedc-f29c-4011-8f86-87d4c1b31268" width=180/> <img src="https://github.com/roquebuarquejr/EasyRecipes/assets/11612508/1a1c7882-423e-44a9-a4c6-f4e499825e5e" width=180/>
 
 ## Tecnologias
 - 100% Kotlin
