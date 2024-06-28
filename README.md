@@ -1,5 +1,5 @@
 # EasyRecipes APP
-EasyRecipes é um aplicativo Android que permite aos usuários explorar receitas em tempo real, obtendo informações diretamente da API [Spoonacular](https://spoonacular.com/). Com uma interface amigável, os usuários podem visualizar detalhes de receitas, incluindo ingredientes e muito mais.
+EasyRecipes é um aplicativo Android que permite aos usuários explorar receitas em tempo real, obtendo informações diretamente da API [Spoonacular](https://spoonacular.com/food-api). Com uma interface amigável, os usuários podem visualizar detalhes de receitas, incluindo ingredientes e muito mais.
 
 Funcionalidades
 - Receitas aleatórias: Explore receitas de forma aleatória para descobrir novas maneiras de cozinhar.
